@@ -1,3 +1,6 @@
 Machine Learning Engineer Nanodegree
+________________________________________
 Model Evaluation and Validation
+________________________________________
 Predicting Boston Housing Prices
+________________________________________
